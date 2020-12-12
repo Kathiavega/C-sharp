@@ -15,12 +15,11 @@ namespace ConsoleApplication1
             Console.WriteLine("");
             Console.WriteLine("Mytec H.N. ");
             Console.WriteLine("Satisfaciendo las necesidades del cliente mayorista. ");
-             Console.WriteLine("------------------------------------------------------");
-             Console.WriteLine("");
-
-             
-
+            Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("");
             Console.WriteLine("\n\nproducto");
+            Console.WriteLine("Mytec H.N. ");
+
             Console.WriteLine("\nMonitor :  ");
 
              Console.WriteLine("Precio Monitor : 3000 ");     
