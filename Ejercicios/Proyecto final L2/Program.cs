@@ -31,7 +31,7 @@ namespace proyecto_notas
                     Console.WriteLine("0 - Salir");
                     Console.WriteLine("");
                     Console.WriteLine("");
-                    Console.Write("Por favor, ingrese una opcion: ");
+                    Console.Write("Ingrese una opcion: ");
                     opcion = Console.ReadLine();
                     
 

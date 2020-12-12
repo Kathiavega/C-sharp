@@ -1,0 +1,26 @@
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.exe
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.deps.json
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.runtimeconfig.json
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.runtimeconfig.dev.json
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.dll
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\bin\Debug\netcoreapp3.1\proyecto_notas.pdb
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.csprojAssemblyReference.cache
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.AssemblyInfoInputs.cache
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.AssemblyInfo.cs
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.csproj.CoreCompileInputs.cache
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.dll
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.pdb
+C:\L2\C-sharp\Ejercicios\Proyecto_Notas\obj\Debug\netcoreapp3.1\proyecto_notas.genruntimeconfig.cache
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.exe
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.deps.json
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.runtimeconfig.json
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.runtimeconfig.dev.json
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.dll
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\bin\Debug\netcoreapp3.1\proyecto_notas.pdb
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.csprojAssemblyReference.cache
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.AssemblyInfoInputs.cache
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.AssemblyInfo.cs
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.csproj.CoreCompileInputs.cache
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.dll
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.pdb
+C:\L2\C-sharp\Ejercicios\Proyecto final L2\obj\Debug\netcoreapp3.1\proyecto_notas.genruntimeconfig.cache
