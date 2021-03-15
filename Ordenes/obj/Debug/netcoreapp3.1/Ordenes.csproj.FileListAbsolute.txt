@@ -1,0 +1,13 @@
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.exe
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.deps.json
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.runtimeconfig.json
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.runtimeconfig.dev.json
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.dll
+C:\L2\C-sharp\Ejercicios\Ordenes\bin\Debug\netcoreapp3.1\Ordenes.pdb
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.csprojAssemblyReference.cache
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.AssemblyInfoInputs.cache
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.AssemblyInfo.cs
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.csproj.CoreCompileInputs.cache
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.dll
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.pdb
+C:\L2\C-sharp\Ejercicios\Ordenes\obj\Debug\netcoreapp3.1\Ordenes.genruntimeconfig.cache
